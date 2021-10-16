@@ -1,6 +1,7 @@
-# flutter_application_1
+# flutter_dust_app
 
-A new Flutter project.
+Flutter Application showing current dust info.
+applied null safety.
 
 ## Getting Started
 
